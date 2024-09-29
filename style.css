@@ -120,6 +120,7 @@ margin-bottom: 2rem;
 }
 
 .home-img img {
+    border-radius: 30px;
     width: 35vw;
     animation: floatImage 4s ease-in-out infinite;
     margin-left: 100px;
@@ -192,6 +193,7 @@ margin-bottom: 2rem;
 }
 
 .about-img img{
+    border-radius: 30px;
     width: 35vw;
 }
 
@@ -242,6 +244,7 @@ display: flex;
 }
 
 .portfolio-box img{
+    height: 38vh;
     width: 100%;
     transition:  .5s ease;
 }
