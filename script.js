@@ -28,10 +28,6 @@ navbar.classList.remove('active');
 
 
 
-
-
-
-
 let menuIcon = document.querySelector('#menu-icon');
 let navbar = document.querySelector('.navbar');
 
